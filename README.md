@@ -4,7 +4,6 @@ This task is a Python AI model that can remove the background from images. This 
 
 https://drive.google.com/drive/folders/1ANSbq6_N_DwuxgRbo6J_AorZ66Zk_r0N?usp=sharing
 
-#this application works on API Flask and tensorflow framework 
 
 # Background Removal Project
 
